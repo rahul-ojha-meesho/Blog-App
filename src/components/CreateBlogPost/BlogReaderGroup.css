@@ -1,0 +1,20 @@
+.blogReaderGroup__container {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.blogReaderGroup__title {
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+
+.blogReaderGroup__label {
+    width: 100%;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.blogReaderGroup__button {
+    margin-right: 1.5rem;
+    margin-left: 0.5rem;
+}

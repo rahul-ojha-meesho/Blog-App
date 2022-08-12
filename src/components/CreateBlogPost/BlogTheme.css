@@ -1,0 +1,24 @@
+.blogTheme__container {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.blogTheme__title {
+    width: 100%;
+    height: 2rem;
+    font-size: 1rem;
+}
+
+.blogTheme__theme {
+    font-size: 1rem;
+    display: inline;
+    margin-right: 0.3rem;
+}
+
+.blogTheme__checkbox {
+    margin-right: 1.5rem;
+}
+
+.blogTheme__themes {
+    display: flex;
+}

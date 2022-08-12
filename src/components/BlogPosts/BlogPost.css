@@ -1,0 +1,50 @@
+.blogPost__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50vw;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    /* margin: 0 25vw 1rem; */
+}
+
+.blogPost__title {
+    width: 100%;
+    font-size: 1.5rem;
+    font-weight: light;
+    margin: 0.5rem 0 0 0.5rem;
+}
+
+.blogPost__author {
+    width: 100%;
+    margin-left: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-size: smaller;
+    font-weight: lighter;
+    display: flex;
+}   
+
+.blogPost__content {
+    width: 100%;
+    margin-left: 0.5rem;
+}
+
+.blogPost__engageButtons {
+    width: 50%;
+    display: flex;
+    margin: 1rem 0 0.5rem 0.5rem;
+}
+
+.blogPost__button {
+    margin-right: 0.8rem;
+    width: 3rem;
+    height: 1.5rem;
+}
+
+.blogPost__viewPostButton {
+    margin-left: 0.5rem;
+    margin-bottom: 0.5rem;
+    width: 7rem;
+    height: 2rem;
+}

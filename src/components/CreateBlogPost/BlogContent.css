@@ -1,0 +1,14 @@
+.blogContent__container {
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.blogContent__title {
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+
+.blogContent__textarea {
+    width: 100%;
+    height: 3rem;
+}

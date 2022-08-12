@@ -1,0 +1,16 @@
+.postTitle__container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.postTitle__title {
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+
+.postTitle__text {
+    height: 2rem;
+    font-size: 1rem;
+}

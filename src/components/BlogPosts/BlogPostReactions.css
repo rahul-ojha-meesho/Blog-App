@@ -1,0 +1,11 @@
+.blogPost__engageButtons {
+    width: 50%;
+    display: flex;
+    margin: 1rem 0 0.5rem 0.5rem;
+}
+
+.blogPost__button {
+    margin-right: 0.8rem;
+    width: 3rem;
+    height: 1.5rem;
+}

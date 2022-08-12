@@ -1,0 +1,10 @@
+.blogImage__container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.blogImage__title {
+    margin-bottom: 0.5rem;
+}

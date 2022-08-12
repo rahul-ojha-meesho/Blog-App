@@ -1,0 +1,8 @@
+.noPostsAvailable {
+    font-size: 5rem;
+    color: #7d57b5;
+    font-weight: lighter;
+    text-align: center;
+    width: 50vw;
+    margin: 0 25vw;
+}
